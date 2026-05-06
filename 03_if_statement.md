@@ -6,14 +6,10 @@ An if statement is used to make decisions in a program.
 It checks whether a condition is true or false.
 If the condition is true, the code inside the if block runs.
 If the condition is false, the code is skipped.
-If statements help the program react differently depending on input.
-I learned that conditions must be written inside parentheses.
-This concept is important because it is used in decision making.
 
 2) C# Syntax
 
 int age = 20;
-
 if (age >= 18)
 {
     Console.WriteLine("Adult");
@@ -27,7 +23,7 @@ It helped me see how conditions control the program.
 4) Common Mistake
 
 I sometimes forget parentheses around the condition.
-For example, if age >= 18 is wrong.
+Example, if age >= 18 is wrong.
 
 5) Research References
 

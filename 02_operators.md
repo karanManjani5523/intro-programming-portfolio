@@ -5,10 +5,16 @@
 Operators are symbols used to perform operations in C#.
 They are used for calculations, comparisons, and logic.
 Arithmetic operators help with math like addition, subtraction, multiplication, division, and modulo.
-Comparison operators check relationships between values.
-Logical operators combine conditions together.
-I learned that operators are used inside expressions and conditions.
-This concept is important because almost every program uses operators.
+
+Types Of Operators :
++	Addition	Adds together two values	x + y	
+-	Subtraction	Subtracts one value from another	x - y	
+*	Multiplication	Multiplies two values	x * y	
+/	Division	Divides one value by another	x / y	
+%	Modulus	Returns the division remainder	x % y	
+++	Increment	Increases the value of a variable by 1	x++	
+--	Decrement	Decreases the value of a variable by 1	x--
+
 
 2) C# Syntax
 
@@ -24,7 +30,6 @@ Console.WriteLine(a % b);
 3) Eureka Exercise
 
 I learned modulo properly when I practiced even and odd numbers.
-I understood that modulo gives the remainder.
 
 4) Common Mistake
 

@@ -13,10 +13,19 @@ This concept is used in almost every C# program.
 2) C# Syntax
    int age = 23;
    double price = 20.5;
-   string name = Karan Manjani;
+   string name = "Karan Manjani";
    bool isStudent = true;
 
---  Console.writeline(name);
+--  Console.Writeline(name);
+
+3) Eureka Exercise
+   i have learned that strings need quotation marks while integers do not.
+
+4) Common  Mistake
+   I sometimes forget semicolons and quotation in C#
+
+5) Research Refrences
+   Class Notes and W3 School Website
 
 
 

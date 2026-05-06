@@ -5,15 +5,14 @@
 A switch statement is used when we have many possible choices for one variable.
 It is easier to read than many if-else statements.
 The switch checks the value and matches it with a case.
-When a case matches, that block of code runs.
-The break statement stops the switch from continuing.
-The default case runs when no case matches.
-I learned that switch is useful for menus and fixed options.
+The switch expression is evaluated once
+The value of the expression is compared with the values of each case
+If there is a match, the associated block of code is executed
+The break and default keywords will be described later in this chapter
 
 2) C# Syntax
 
 int day = 2;
-
 switch (day)
 {
     case 1:

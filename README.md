@@ -1,33 +1,29 @@
---Introduction to Programming Portfolio
+* Introduction to Programming Portfolio
 
 Name: Karan Manjani
 
-1) Reflection
+* Reflection
 
-The concept I feel most confident about is if statements because I practiced many questions using conditions.
-I understand how conditions help the program make decisions.
-The concept I still find challenging is 2D arrays because rows and columns can be confusing.
-Before the final exam, I want to practice more examples using arrays, functions, and loops.
+I learned many basic concepts of C# programming in this course.
+I feel confident with if statements and loops.
+I still need more practice with arrays and functions.
+This portfolio helped me revise programming concepts step by step.
 
-2) My Understanding of GitHub
+* My Understanding of GitHub
 
-GitHub is used to store projects online.
-It helps developers organize files and track changes.
-A repository is like a project folder on GitHub.
-Commits are saved changes made to the project.
-I learned how to create files and folders in GitHub and upload my portfolio.
+GitHub is used to store and manage projects online.
+It helps save files, organize folders, and track changes.
+I learned how to create repositories and upload files.
+a
 
-3) My Understanding of How C# Code Gets Executed
+* My Understanding of How C# Code Gets Executed
 
-C# code starts running from the Main method.
-The code is first compiled by the C# compiler.
-After that, the program runs using the .NET runtime.
-The computer executes the instructions step by step.
-If there is a syntax error, the program will not compile.
+C# code starts from the Main() method.
+The compiler checks the code for errors.
+Then the .NET runtime executes the program line by line.
+Console.Writeline() to print the ouput of code.
 
-4) Research References
+* Research References
 
-Class Notes and W3 School Website
-GitHub beginner tutorials
-Microsoft Learn C# Documentation
-ChatGPT explanations for revision
+- Class Notes
+- W3Schools

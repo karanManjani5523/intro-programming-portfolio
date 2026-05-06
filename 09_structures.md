@@ -6,8 +6,6 @@ A structure is a custom datatype in C#.
 It is used to group related variables together.
 For example, a Student structure can store name, age, and grade.
 Structures help organize data in a better way.
-They are useful when one item has multiple pieces of information.
-I learned that structures make code cleaner when many related values are needed.
 This concept helped me understand how custom datatypes work.
 
 2) C# Syntax
